@@ -24,6 +24,20 @@
 			"title" : "cc_converter_convert3",
 			"description" : "cc_converter_convert3_desc",
 			"callback" : "callback_cc_converter_convert3"
-		}		
+		},
+		{
+			"type" : "button",
+			"id" : "cc_converter_convert4",
+			"title" : "cc_converter_convert4",
+			"description" : "cc_converter_convert4_desc",
+			"callback" : "callback_cc_converter_convert4"
+		},
+		{
+			"type" : "button",
+			"id" : "cc_converter_convert5",
+			"title" : "cc_converter_convert5",
+			"description" : "cc_converter_convert5_desc",
+			"callback" : "callback_cc_converter_convert5"
+		}	
 	]
 }
