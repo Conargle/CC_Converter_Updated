@@ -1,0 +1,22 @@
+{
+    "cc_converter_menu" : "CC_Converter Updated",
+    "cc_converter_menu_desc" : "Buy Continental Coins with offshore money!",
+    "cc_converter_convert1" : "Buy 1 Continental Coin",
+    "cc_converter_convert1_desc" : "Buy 1 Coin for $10,000,000?",
+	"cc_converter_convert1_confirm_title" : "Buy a Continental Coin for $10,000,000?",
+    "cc_converter_convert2" : "Buy 5 Continental Coins",
+    "cc_converter_convert2_desc" : "Buy 5 Coins for $50,000,000?",
+	"cc_converter_convert2_confirm_title" : "Buy 5 Continental Coins for $50,000,000?",
+    "cc_converter_convert3" : "Buy 10 Continental Coins",
+    "cc_converter_convert3_desc" : "Buy 10 Coins for $100,000,000?",
+	"cc_converter_convert3_confirm_title" : "Buy 10 Continental Coins for $100,000,000?",
+    "cc_converter_convert4" : "Buy 50 Continental Coins",
+    "cc_converter_convert4_desc" : "Buy 50 Coins for $500,000,000?",
+	"cc_converter_convert4_confirm_title" : "Buy 50 Continental Coins for $500,000,000?",
+    "cc_converter_convert5" : "Buy 100 Continental Coins",
+    "cc_converter_convert5_desc" : "Buy 100 Coins for $1,000,000,000?",
+	"cc_converter_convert5_confirm_title" : "Buy 100 Continental Coins for $1,000,000,000?",
+	"cc_converter_confirm_msg" : "Are you sure?",
+	"cc_converter_positive_choice" : "Yes",
+	"cc_converter_negative_choice" : "No"
+}
