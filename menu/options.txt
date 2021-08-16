@@ -1,0 +1,29 @@
+{
+	"menu_id" : "CC_Converter_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "cc_converter_menu",
+	"description" : "cc_converter_menu_desc",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "cc_converter_convert1",
+			"title" : "cc_converter_convert1",
+			"description" : "cc_converter_convert1_desc",
+			"callback" : "callback_cc_converter_convert1"
+		},
+		{
+			"type" : "button",
+			"id" : "cc_converter_convert2",
+			"title" : "cc_converter_convert2",
+			"description" : "cc_converter_convert2_desc",
+			"callback" : "callback_cc_converter_convert2"
+		},	
+		{
+			"type" : "button",
+			"id" : "cc_converter_convert3",
+			"title" : "cc_converter_convert3",
+			"description" : "cc_converter_convert3_desc",
+			"callback" : "callback_cc_converter_convert3"
+		}		
+	]
+}

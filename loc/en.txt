@@ -1,0 +1,10 @@
+{
+    "cc_converter_menu" : "CC_Converter",
+    "cc_converter_menu_desc" : "Buy Continental Coins with offshore money!",
+    "cc_converter_convert1" : "Buy a Continental Coin.",
+    "cc_converter_convert1_desc" : "The default exchange rate is 1 coin per $20,000,000. Buy 1 Coin?",
+    "cc_converter_convert2" : "Spend $100,000,000.",
+    "cc_converter_convert2_desc" : "The default exchange rate is 1 coin per $20,000,000. Buy 5 Coins?",
+    "cc_converter_convert3" : "Spend $1,000,000,000.",
+    "cc_converter_convert3_desc" : "The default exchange rate is 1 coin per $20,000,000. Buy 50 Coins?"
+}

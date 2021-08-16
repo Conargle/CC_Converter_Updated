@@ -1,0 +1,16 @@
+{   
+    "name" : "CC_Converter Updated",
+    "description" : "Buy Continental Coins with your offshore money!",
+    "author" : "Draspur",
+	"contact" : "No-one"
+    "version" : "2.0",
+    "blt_version" : 2,
+	"image": "cc.png",
+	"color" : "0 1 0",
+    "hooks" : [  
+		{
+            "hook_id" : "lib/managers/menumanager",
+            "script_path" : "lua/cc_converter.lua"
+        }
+    ]
+}
